@@ -36,5 +36,5 @@ app.get("/contact", checkTime, (req, res) => {
 
 // Start the server
 app.listen(5000, () => {
-  console.log("Server listening on port 3000");
+  console.log("Server listening on port 5000");
 });
